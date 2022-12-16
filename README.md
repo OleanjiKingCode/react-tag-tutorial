@@ -1,6 +1,6 @@
-# A React Scroll and React-intersection-observer example
+# A React Tag  example
 
-A react scroll and intersection observer site built with Next.js.
+A react tag site built with Next.js.
 
 
 **Website in production environment**
@@ -11,8 +11,7 @@ A react scroll and intersection observer site built with Next.js.
 
 - [**Next.js**](https://nextjs.org/docs/getting-started) : A widely-used framework for building [React](https://reactjs.org/) applications
 - [**Tailwind Css**](https://tailwindcss.com/docs/installation): A utility-first CSS framework
-- [**React-scroll**](https://github.com/fisshy/react-scroll): A React component for animating vertical scrolling
-- [**React Intersection Observer**](https://github.com/thebuilder/react-intersection-observer): A React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+- [**React-Tag-Input**](https://github.com/fisshy/react-scroll):A simple tagging react component ready to drop in your projects
 
 
 
