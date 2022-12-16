@@ -70,6 +70,7 @@ export default function Home() {
             editable
           />
         </div>
+        <div className="bottom-0 py-10"> Made with 💖 by Oleanji</div>
       </div>
     </>
   );
