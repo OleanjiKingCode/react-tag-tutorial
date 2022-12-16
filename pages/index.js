@@ -1,7 +1,7 @@
 import { WithContext as ReactTags } from "react-tag-input";
 import Head from "next/head";
 import { useState } from "react";
-import { TAGS } from "./data/tags";
+import { TAGS } from "../components/data/tags";
 
 export default function Home() {
   //This serves as the tag that shows up on load
