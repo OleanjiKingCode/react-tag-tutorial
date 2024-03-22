@@ -5,7 +5,8 @@ A react tag site built with Next.js.
 
 **Website in production environment**
 
-![expalnation](https://user-images.githubusercontent.com/75235148/204169548-6e222ec5-0599-4811-9d47-afbb362e700b.png)
+![explanation](https://user-images.githubusercontent.com/75235148/208203203-326718c6-64b6-4267-9b61-bb407f2c285b.png)
+
 
 ## Tech Stack
 
