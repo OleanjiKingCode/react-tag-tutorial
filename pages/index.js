@@ -32,7 +32,7 @@ export default function Home() {
 
   //This checks for a condition when a new tag is added
   const handleAddition = (tag) => {
-    if (Tags.length >= 4) {
+    if (Tags.length >= 40) {
       alert("Max length of tags is 4");
     } else {
       setTags([...Tags, tag]);
